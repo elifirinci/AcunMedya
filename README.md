@@ -8,3 +8,4 @@ In this repo, I share the projects I worked on, the features I developed and the
 | 1  | Data Analysis | The Palmer Penguins | The dataset was analyzed and missing values were found. And filled appropriately. |
 | 2  | Data Analysis | Heart Disease UCI | Outliers were found and visualized using barplot.|
 | 3  | Data Preprocessing | Heart Disease UCI | Standardization and encoding. |
+| 4 | Data Visualization | Tips | data were visualized with different types of graphs.|
