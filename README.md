@@ -11,3 +11,4 @@ In this repo, I share the projects I worked on, the features I developed and the
 | 4 | Data Visualization | Tips | Data were visualized with different types of graphs.|
 | 5 | Feauture Engineering |diabetes_dataset| Data processed, features added and training done.|
 | 6 | Lineer Regression | uci-ml-repo| Lineer regression was used to estimate the fuel consumption of the vehicle.|
+| 7| Linear+Lasso+Ridge | Hitters | Linear, ridge and lasso regression results were evaluated. Ridge and lasso were re-evaluated using optimization techniques. |
