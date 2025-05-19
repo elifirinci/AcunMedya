@@ -14,3 +14,4 @@ In this repo, I share the projects I worked on, the features I developed and the
 | 7| Linear+Lasso+Ridge | Hitters | Linear, ridge and lasso regression results were evaluated. Ridge and lasso were re-evaluated using optimization techniques. |
 | 8| Polynomial Regression | insurance | Estimation was done with polynomial regression and compared with ridge and lasso.|
 |9| Logistic Regression | Admission Predict | Classification was done with logistic regression, and the model was developed using hyperparameter optimizations (RandomizeSearch, GridSearch).|
+|10| Decision Trees | Istanbul House Dataset | Data preprocessing was done, feature engineering was applied. 3 different models were tested using DecistionTreeRegressor, GridSearch and RandomizedSearch.|
